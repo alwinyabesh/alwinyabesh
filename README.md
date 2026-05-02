@@ -11,22 +11,14 @@
 
 ## about me
 
-```
-$ whoami
-Alwin Yabesh ⚡
-
-$ education
-> CSE @ Thiagarajar College of Engineering
-
-$ focus
-> IoT, Embedded Systems & Full Stack
-
-$ current
-> Improving System Design + Engineering
-
-$ funfact
-> I debug hardware with software
-```
+<div align="left">
+  <img src="https://img.shields.io/badge/Alwin%20Yabesh-⚡-7aa2f7?style=flat-square&labelColor=24283b" />
+  <img src="https://img.shields.io/badge/CSE-Thiagarajar%20College-9ece6a?style=flat-square&labelColor=24283b" />
+  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Embedded-ff9e64?style=flat-square&labelColor=24283b" />
+  <img src="https://img.shields.io/badge/Status-Improving%20Design-bb9af7?style=flat-square&labelColor=24283b" />
+  <br/>
+  <img src="https://img.shields.io/badge/Fun%20Fact-Debug%20Hardware%20with%20Software-7aa2f7?style=flat-square&labelColor=24283b" />
+</div>
 
 ---
 
