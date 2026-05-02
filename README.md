@@ -12,12 +12,20 @@
 ## about me
 
 ```
-┌─────────────────────────────────────────────────┐
-│  🎓 cse @ thiagarajar college of engineering   │
-│  🔧 iot, embedded systems & full stack        │
-│  🌱 improving system design + engineering      │
-│  ⚡ fun fact: i debug hardware with software   │
-└─────────────────────────────────────────────────┘
+$ whoami
+Alwin Yabesh ⚡
+
+$ education
+> CSE @ Thiagarajar College of Engineering
+
+$ focus
+> IoT, Embedded Systems & Full Stack
+
+$ current
+> Improving System Design + Engineering
+
+$ funfact
+> I debug hardware with software
 ```
 
 ---
