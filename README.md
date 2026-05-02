@@ -1,5 +1,5 @@
 <!-- Typing SVG Header - WORKING SERVICE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Alwin+Yabesh+%E2%9A%A1;Full+Stack+Developer;IoT+%26+Embedded+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Alwin+Yabesh;Full+Stack+Developer;IoT+%26+Embedded+Systems" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alwinyabesh&label=Profile%20Views&color=7aa2f7&style=for-the-badge&labelColor=24283b" />
@@ -9,15 +9,15 @@
 
 ---
 
-## 🧠 About Me
+## about me
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  🎓 CSE @ Thiagarajar College of Engineering   │
-│  🔧 IoT, Embedded Systems & Full Stack        │
-│  🌱 Improving system design + engineering      │
-│  ⚡ Fun fact: I debug hardware with software   │
-└──────────────────────── directing─────────────────┘
+│  🎓 cse @ thiagarajar college of engineering   │
+│  🔧 iot, embedded systems & full stack        │
+│  🌱 improving system design + engineering      │
+│  ⚡ fun fact: i debug hardware with software   │
+└─────────────────────────────────────────────────┘
 ```
 
 ---
@@ -32,11 +32,11 @@
 
 | Technology | Level | Badge |
 |-----------|-------|-------|
-| Python | ███████████████████ | ![90%](https://img.shields.io/badge/90%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
-| Java | ████████████████ | ![75%](https://img.shields.io/badge/75%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
-| Full Stack | ████████████████████ | ![85%](https://img.shields.io/badge/85%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
-| IoT & Embedded | ████████████████████ | ![88%](https://img.shields.io/badge/88%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
-| ML/Streamlit | ██████████████████ | ![82%](https://img.shields.io/badge/82%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
+| Python | ██████████████████ | ![90%](https://img.shields.io/badge/90%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
+| Java | ██████ | ![60%](https://img.shields.io/badge/60%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
+| Full Stack | ███████████████████ | ![85%](https://img.shields.io/badge/85%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
+| IoT & Embedded | ███████████████████ | ![88%](https://img.shields.io/badge/88%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
+| ML/Streamlit | █████████████████ | ![82%](https://img.shields.io/badge/82%25-7aa2f7?style=for-the-badge&labelColor=24283b) |
 
 ---
 
